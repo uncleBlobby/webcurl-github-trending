@@ -9,15 +9,15 @@ Examples:
 
 Running the script:
 
-![image of shell script](https://imgur.com/Sl8Ui5V)
+[image of shell script](https://imgur.com/Sl8Ui5V)
 
 Webcurl output in results.txt (7000+ lines of html):
 
-![image of ugly html output](https://imgur.com/wBDXzz3)
+[image of ugly html output](https://imgur.com/wBDXzz3)
 
 
 Parsed results in new file (2021-12-30):
 
-![image of pretty parsed results](https://imgur.com/D8zcnOH)
+[image of pretty parsed results](https://imgur.com/D8zcnOH)
 
 TODO: automate script to run daily, format output to include project description
